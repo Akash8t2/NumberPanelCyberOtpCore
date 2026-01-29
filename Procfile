@@ -1,1 +1,1 @@
-worker: python lamix.py
+worker: python number.py
