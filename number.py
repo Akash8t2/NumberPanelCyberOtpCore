@@ -15,7 +15,7 @@ API_URL = "http://51.89.99.105/NumberPanel/client/res/data_smscdr.php"
 PHPSESSID = os.getenv("PHPSESSID")
 SESSKEY   = "Q05RR0FPUUpCVg=="
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHAT_ID   = "-1003559187782")
+CHAT_ID   = "-1003559187782"
 
 CHECK_INTERVAL = 12
 STATE_FILE = "state.json"
